@@ -1,1 +1,3 @@
-# 08-Kripto23
+# PRAKTIKUM KRIPTOGRAFI B 2023
+
+## 140810210008 - Nabila Sa'diyyah Ahmadi
