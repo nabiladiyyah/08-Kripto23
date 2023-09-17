@@ -1,3 +1,3 @@
-# PRAKTIKUM KRIPTOGRAFI B 2023
+# Praktikum Kriptografi 2023
 
-## 140810210008 - Nabila Sa'diyyah Ahmadi
+## 140810210008 - NABILA SA'DIYYAH AHMADI
